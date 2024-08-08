@@ -3,7 +3,7 @@
 ## Description
 142,636 Images of Different Camera Brands. The dataset includes indoor scenes and outdoor scenes. The data diversity includes multiple scenes, multiple camera brands, different time periods and different image resolutions. This dataset covers 41 camera brands, it can be used for tasks such as image understanding and scenes classification.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/87?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/87?source=Github
 
 
 # Specifications
